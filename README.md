@@ -14,10 +14,10 @@ This application gives the user the ability to write and save notes; so that the
 * [Questions](#questions)
 
 ## Installation
-The following necessary dependencies must be installed to run the application properly: The following necessary dependencies must be installed to run the application properly: As a prerequisite, you must have node.js installed. First, fork the GitHub repository and copy it to your local machine. Open the code. From there, open your terminal and run a npm install within the code folder. It should install all required dependencies; check the package.json folder to make sure Express  was added.
+The following necessary dependencies must be installed to run the application properly: As a prerequisite, you must have node.js installed. First, fork the GitHub repository and copy it to your local machine. Open the code. From there, open your terminal and run a npm install within the code folder. It should install all required dependencies; check the package.json folder to make sure Express  was added.
 
 ## Usage
-To use this application: To use the application, see it live on Heroku here: . To use it from the CLI; Open the code. From there, open your terminal and run a npm install  within the code folder. It should install all required dependencies; check the package.json folder to make sure Express was added. Finally run -- node server.js --.
+To use this application: Use it live on Heroku here: [https://jefarth-note-taker.herokuapp.com](https://jefarth-note-taker.herokuapp.com/). To use it from the CLI; Open the code. From there, open your terminal and run a npm install  within the code folder. It should install all required dependencies; check the package.json folder to make sure Express was added. Finally run -- node server.js --.
 
 ## License
 This project is licensed under the MIT License.
